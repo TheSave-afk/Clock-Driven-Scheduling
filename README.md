@@ -1,5 +1,5 @@
 # Clock-Driven-Scheduling
-Developing of a real time scheduling system that  execute a set of periodic tasks and perform one aperiodic task according to a clock driven approach, using a static scheduling algorithm that provides the system with a feasible schedule. The release of the aperiodic task occours sporadically during the system operations.
+Developing of a real time scheduling system that  execute a set of periodic tasks and perform one aperiodic task according to a clock driven approach, using a static scheduling algorithm. The release of the aperiodic task occours sporadically during the system operations.
 
 How the system works?
 
